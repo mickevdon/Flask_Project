@@ -1,2 +1,2 @@
 # Flask_Project
-First flask project
+First flask project. Blog system (based on flask documentation).
